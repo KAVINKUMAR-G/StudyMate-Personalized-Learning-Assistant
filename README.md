@@ -45,3 +45,14 @@ This is an educational prototype that uses a curated local knowledge base and re
 
 ## Author
 Kavinkumar G.
+## Live Demo
+
+Try StudyMate here:
+
+[Launch StudyMate](https://studymate-personalized-learning-assistant-mxchnqm5aesxcnhdm5mr.streamlit.app)
+
+## Developer
+
+**Kavinkumar G.**
+
+Personalized Learning Assistant built using Python, Streamlit, SQLite and Machine Learning.
