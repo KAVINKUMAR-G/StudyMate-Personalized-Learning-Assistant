@@ -56,3 +56,15 @@ Try StudyMate here:
 **Kavinkumar G.**
 
 Personalized Learning Assistant built using Python, Streamlit, SQLite and Machine Learning.
+## Future Improvements
+
+- Add more learning subjects and topics.
+- Improve personalized recommendations.
+- Add interactive quizzes.
+- Enhance student progress analytics.
+- Expand the knowledge base.
+
+## Contact
+
+Developer: Kavinkumar G.
+GitHub: https://github.com/KAVINKUMAR-G
